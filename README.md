@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# magic-link-tutorial-ytについて
+
+このリポジトリは[この動画教材](https://youtu.be/JcZCMckvFf0)に触発されて作りました。  
+とりあえずEmailだけでパスワード無しでもログイン出来るところまでは確認できましたが、まだGitHubアカウントでログインする機能は未着手の状態です。（後で追加することもあるでしょう）
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
